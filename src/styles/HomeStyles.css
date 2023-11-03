@@ -1,0 +1,26 @@
+.contain-box{
+  position:relative;
+  display: flex;
+  background-color: aquamarine;
+
+}
+.contain-box .img{
+  padding-block: 20px
+}
+.img{
+  padding-left: 20px;
+}
+.img .details{
+  text-align:center ;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: large;
+  
+}
+.img .details{
+  border-style: groove;
+}
+.details{
+  background-color: black;
+  color: azure;
+}
